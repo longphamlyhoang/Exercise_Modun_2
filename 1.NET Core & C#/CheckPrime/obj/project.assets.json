@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Modun2\\1.NET Core & C#\\CheckPrime\\CheckPrime.csproj",
+      "projectUniqueName": "E:\\Modun2\\Exercise_Modun_2\\1.NET Core & C#\\CheckPrime\\CheckPrime.csproj",
       "projectName": "CheckPrime",
-      "projectPath": "E:\\Modun2\\1.NET Core & C#\\CheckPrime\\CheckPrime.csproj",
+      "projectPath": "E:\\Modun2\\Exercise_Modun_2\\1.NET Core & C#\\CheckPrime\\CheckPrime.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Modun2\\1.NET Core & C#\\CheckPrime\\obj\\",
+      "outputPath": "E:\\Modun2\\Exercise_Modun_2\\1.NET Core & C#\\CheckPrime\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "suTgFF1bMEtE++z0uvfqL0C1/GTD8LbbY8DE3ZmoMSOUOI8nFBhBD2R3EsJ4k+Rw1+39NtNrBD3kdzDCe1ixSA==",
+  "dgSpecHash": "CjYJNTXT4i7El3AnBvbLxAcr8KE9zi/hNUqWAMwtyxcuhSwa0143+SpFqKqMrv62a1zCmfSm5sYiT5gl3p3H5A==",
   "success": true,
-  "projectFilePath": "E:\\Modun2\\1.NET Core & C#\\CheckPrime\\CheckPrime.csproj",
+  "projectFilePath": "E:\\Modun2\\Exercise_Modun_2\\1.NET Core & C#\\CheckPrime\\CheckPrime.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
