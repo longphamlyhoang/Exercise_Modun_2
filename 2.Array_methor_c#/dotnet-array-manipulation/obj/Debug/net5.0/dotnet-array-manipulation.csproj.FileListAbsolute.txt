@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\bin\Debug\net5.0\dotnet-array-manipulation.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\bin\Debug\net5.0\dotnet-array-manipulation.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\bin\Debug\net5.0\dotnet-array-manipulation.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\bin\Debug\net5.0\dotnet-array-manipulation.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\bin\Debug\net5.0\dotnet-array-manipulation.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\bin\Debug\net5.0\ref\dotnet-array-manipulation.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\bin\Debug\net5.0\dotnet-array-manipulation.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\dotnet-array-manipulation.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\dotnet-array-manipulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\dotnet-array-manipulation.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\dotnet-array-manipulation.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\dotnet-array-manipulation.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\dotnet-array-manipulation.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\ref\dotnet-array-manipulation.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\dotnet-array-manipulation.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-array-manipulation\obj\Debug\net5.0\dotnet-array-manipulation.genruntimeconfig.cache

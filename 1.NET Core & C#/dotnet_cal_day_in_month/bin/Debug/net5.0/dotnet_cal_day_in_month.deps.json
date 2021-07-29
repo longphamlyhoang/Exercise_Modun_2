@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dotnet_cal_day_in_month/1.0.0": {
+        "runtime": {
+          "dotnet_cal_day_in_month.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet_cal_day_in_month/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
