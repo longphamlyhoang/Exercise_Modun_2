@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\bin\Debug\net5.0\dotnet-FindMax.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\bin\Debug\net5.0\dotnet-FindMax.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\bin\Debug\net5.0\dotnet-FindMax.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\bin\Debug\net5.0\dotnet-FindMax.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\bin\Debug\net5.0\dotnet-FindMax.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\bin\Debug\net5.0\ref\dotnet-FindMax.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\bin\Debug\net5.0\dotnet-FindMax.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\dotnet-FindMax.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\dotnet-FindMax.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\dotnet-FindMax.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\dotnet-FindMax.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\dotnet-FindMax.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\dotnet-FindMax.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\ref\dotnet-FindMax.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\dotnet-FindMax.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-FindMax\obj\Debug\net5.0\dotnet-FindMax.genruntimeconfig.cache

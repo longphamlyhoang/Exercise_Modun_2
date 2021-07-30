@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\bin\Debug\net5.0\dotnet-mine-sweeper.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\bin\Debug\net5.0\dotnet-mine-sweeper.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\bin\Debug\net5.0\dotnet-mine-sweeper.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\bin\Debug\net5.0\dotnet-mine-sweeper.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\bin\Debug\net5.0\dotnet-mine-sweeper.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\bin\Debug\net5.0\ref\dotnet-mine-sweeper.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\bin\Debug\net5.0\dotnet-mine-sweeper.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\dotnet-mine-sweeper.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\dotnet-mine-sweeper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\dotnet-mine-sweeper.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\dotnet-mine-sweeper.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\dotnet-mine-sweeper.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\dotnet-mine-sweeper.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\ref\dotnet-mine-sweeper.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\dotnet-mine-sweeper.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-mine-sweeper\obj\Debug\net5.0\dotnet-mine-sweeper.genruntimeconfig.cache

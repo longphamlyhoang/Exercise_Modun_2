@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\bin\Debug\net5.0\dotnet-reverse-array.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\bin\Debug\net5.0\dotnet-reverse-array.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\bin\Debug\net5.0\dotnet-reverse-array.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\bin\Debug\net5.0\dotnet-reverse-array.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\bin\Debug\net5.0\dotnet-reverse-array.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\bin\Debug\net5.0\ref\dotnet-reverse-array.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\bin\Debug\net5.0\dotnet-reverse-array.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\dotnet-reverse-array.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\dotnet-reverse-array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\dotnet-reverse-array.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\dotnet-reverse-array.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\dotnet-reverse-array.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\dotnet-reverse-array.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\ref\dotnet-reverse-array.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\dotnet-reverse-array.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-reverse-array\obj\Debug\net5.0\dotnet-reverse-array.genruntimeconfig.cache

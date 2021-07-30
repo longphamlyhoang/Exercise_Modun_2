@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\bin\Debug\net5.0\dotnet-count-student.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\bin\Debug\net5.0\dotnet-count-student.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\bin\Debug\net5.0\dotnet-count-student.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\bin\Debug\net5.0\dotnet-count-student.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\bin\Debug\net5.0\dotnet-count-student.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\bin\Debug\net5.0\ref\dotnet-count-student.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\bin\Debug\net5.0\dotnet-count-student.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\dotnet-count-student.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\dotnet-count-student.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\dotnet-count-student.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\dotnet-count-student.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\dotnet-count-student.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\dotnet-count-student.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\ref\dotnet-count-student.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\dotnet-count-student.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-count-student\obj\Debug\net5.0\dotnet-count-student.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\bin\Debug\net5.0\net-find-min-value.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\bin\Debug\net5.0\net-find-min-value.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\bin\Debug\net5.0\net-find-min-value.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\bin\Debug\net5.0\net-find-min-value.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\bin\Debug\net5.0\net-find-min-value.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\bin\Debug\net5.0\ref\net-find-min-value.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\bin\Debug\net5.0\net-find-min-value.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\net-find-min-value.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\net-find-min-value.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\net-find-min-value.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\net-find-min-value.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\net-find-min-value.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\net-find-min-value.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\ref\net-find-min-value.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\net-find-min-value.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\net-find-min-value\obj\Debug\net5.0\net-find-min-value.genruntimeconfig.cache

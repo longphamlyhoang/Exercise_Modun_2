@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\bin\Debug\net5.0\dotnet-change-temperature-jame.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\bin\Debug\net5.0\dotnet-change-temperature-jame.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\bin\Debug\net5.0\dotnet-change-temperature-jame.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\bin\Debug\net5.0\dotnet-change-temperature-jame.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\bin\Debug\net5.0\dotnet-change-temperature-jame.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\bin\Debug\net5.0\ref\dotnet-change-temperature-jame.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\bin\Debug\net5.0\dotnet-change-temperature-jame.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\dotnet-change-temperature-jame.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\dotnet-change-temperature-jame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\dotnet-change-temperature-jame.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\dotnet-change-temperature-jame.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\dotnet-change-temperature-jame.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\dotnet-change-temperature-jame.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\ref\dotnet-change-temperature-jame.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\dotnet-change-temperature-jame.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature-jame\obj\Debug\net5.0\dotnet-change-temperature-jame.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\bin\Debug\net5.0\dotnet-find-value-in-array.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\bin\Debug\net5.0\dotnet-find-value-in-array.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\bin\Debug\net5.0\dotnet-find-value-in-array.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\bin\Debug\net5.0\dotnet-find-value-in-array.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\bin\Debug\net5.0\dotnet-find-value-in-array.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\bin\Debug\net5.0\ref\dotnet-find-value-in-array.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\bin\Debug\net5.0\dotnet-find-value-in-array.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\dotnet-find-value-in-array.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\dotnet-find-value-in-array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\dotnet-find-value-in-array.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\dotnet-find-value-in-array.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\dotnet-find-value-in-array.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\dotnet-find-value-in-array.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\ref\dotnet-find-value-in-array.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\dotnet-find-value-in-array.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-find-value-in-array\obj\Debug\net5.0\dotnet-find-value-in-array.genruntimeconfig.cache

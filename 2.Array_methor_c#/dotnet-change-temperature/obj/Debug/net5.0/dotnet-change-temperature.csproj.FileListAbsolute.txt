@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\bin\Debug\net5.0\dotnet-change-temperature.exe
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\bin\Debug\net5.0\dotnet-change-temperature.deps.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\bin\Debug\net5.0\dotnet-change-temperature.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\bin\Debug\net5.0\dotnet-change-temperature.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\bin\Debug\net5.0\dotnet-change-temperature.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\bin\Debug\net5.0\ref\dotnet-change-temperature.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\bin\Debug\net5.0\dotnet-change-temperature.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\dotnet-change-temperature.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\dotnet-change-temperature.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\dotnet-change-temperature.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\dotnet-change-temperature.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\dotnet-change-temperature.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\dotnet-change-temperature.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\ref\dotnet-change-temperature.dll
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\dotnet-change-temperature.pdb
+E:\Modun2\Exercise_Modun_2\2.Array_methor_c#\dotnet-change-temperature\obj\Debug\net5.0\dotnet-change-temperature.genruntimeconfig.cache
