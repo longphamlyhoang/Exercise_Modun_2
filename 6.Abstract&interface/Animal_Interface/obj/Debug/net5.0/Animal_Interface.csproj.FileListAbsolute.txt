@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\Animal_Interface.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\Animal_Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\Animal_Interface.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\Animal_Interface.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\Animal_Interface.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\bin\Debug\net5.0\Animal_Interface.exe
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\bin\Debug\net5.0\Animal_Interface.deps.json
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\bin\Debug\net5.0\Animal_Interface.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\bin\Debug\net5.0\Animal_Interface.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\bin\Debug\net5.0\Animal_Interface.dll
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\bin\Debug\net5.0\ref\Animal_Interface.dll
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\bin\Debug\net5.0\Animal_Interface.pdb
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\Animal_Interface.dll
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\ref\Animal_Interface.dll
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\Animal_Interface.pdb
+E:\Modun2\Exercise_Modun_2\6.Abstract&interface\Animal_Interface\obj\Debug\net5.0\Animal_Interface.genruntimeconfig.cache

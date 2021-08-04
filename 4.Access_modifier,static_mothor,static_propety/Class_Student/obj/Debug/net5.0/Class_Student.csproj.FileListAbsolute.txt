@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\bin\Debug\net5.0\Class_Student.exe
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\bin\Debug\net5.0\Class_Student.deps.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\bin\Debug\net5.0\Class_Student.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\bin\Debug\net5.0\Class_Student.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\bin\Debug\net5.0\Class_Student.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\bin\Debug\net5.0\ref\Class_Student.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\bin\Debug\net5.0\Class_Student.pdb
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\Class_Student.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\Class_Student.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\Class_Student.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\Class_Student.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\Class_Student.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\Class_Student.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\ref\Class_Student.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\Class_Student.pdb
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Student\obj\Debug\net5.0\Class_Student.genruntimeconfig.cache

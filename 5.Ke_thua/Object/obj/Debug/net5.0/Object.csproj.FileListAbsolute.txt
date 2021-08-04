@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\Object.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\Object.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\Object.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\Object.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\bin\Debug\net5.0\Object.exe
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\bin\Debug\net5.0\Object.deps.json
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\bin\Debug\net5.0\Object.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\bin\Debug\net5.0\Object.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\bin\Debug\net5.0\Object.dll
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\bin\Debug\net5.0\ref\Object.dll
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\bin\Debug\net5.0\Object.pdb
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\Object.dll
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\ref\Object.dll
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\Object.pdb
+E:\Modun2\Exercise_Modun_2\5.Ke_thua\Object\obj\Debug\net5.0\Object.genruntimeconfig.cache

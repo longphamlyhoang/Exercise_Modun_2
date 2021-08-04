@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\bin\Debug\net5.0\Class_Animal.exe
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\bin\Debug\net5.0\Class_Animal.deps.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\bin\Debug\net5.0\Class_Animal.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\bin\Debug\net5.0\Class_Animal.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\bin\Debug\net5.0\Class_Animal.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\bin\Debug\net5.0\ref\Class_Animal.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\bin\Debug\net5.0\Class_Animal.pdb
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\Class_Animal.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\Class_Animal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\Class_Animal.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\Class_Animal.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\Class_Animal.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\Class_Animal.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\ref\Class_Animal.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\Class_Animal.pdb
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Class_Animal\obj\Debug\net5.0\Class_Animal.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\bin\Debug\net5.0\Static_Property.exe
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\bin\Debug\net5.0\Static_Property.deps.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\bin\Debug\net5.0\Static_Property.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\bin\Debug\net5.0\Static_Property.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\bin\Debug\net5.0\Static_Property.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\bin\Debug\net5.0\ref\Static_Property.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\bin\Debug\net5.0\Static_Property.pdb
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\Static_Property.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\Static_Property.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\Static_Property.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\Static_Property.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\Static_Property.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\Static_Property.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\ref\Static_Property.dll
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\Static_Property.pdb
+E:\Modun2\Exercise_Modun_2\4.Access_modifier,static_mothor,static_propety\Static_Property\obj\Debug\net5.0\Static_Property.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\bin\Debug\net5.0\dotnet-rectangle.exe
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\bin\Debug\net5.0\dotnet-rectangle.deps.json
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\bin\Debug\net5.0\dotnet-rectangle.runtimeconfig.json
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\bin\Debug\net5.0\dotnet-rectangle.runtimeconfig.dev.json
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\bin\Debug\net5.0\dotnet-rectangle.dll
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\bin\Debug\net5.0\ref\dotnet-rectangle.dll
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\bin\Debug\net5.0\dotnet-rectangle.pdb
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\dotnet-rectangle.csproj.AssemblyReference.cache
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\dotnet-rectangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\dotnet-rectangle.AssemblyInfoInputs.cache
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\dotnet-rectangle.AssemblyInfo.cs
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\dotnet-rectangle.csproj.CoreCompileInputs.cache
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\dotnet-rectangle.dll
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\ref\dotnet-rectangle.dll
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\dotnet-rectangle.pdb
+E:\Modun2\Exercise_Modun_2\3.Class_oop_c#\dotnet-rectangle\obj\Debug\net5.0\dotnet-rectangle.genruntimeconfig.cache
